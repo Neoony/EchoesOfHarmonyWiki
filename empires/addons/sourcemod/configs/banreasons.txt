@@ -1,8 +1,0 @@
-"banreasons"
-	{
-	"Commander Stealing"		"Commander Stealing"
-	"9-mining"					"9-mining"
-	"Exploiting"				"Exploiting"
-	"Mic spamming"				"Mic spamming"
-	"Other"						"Other"
-	}
